@@ -1,6 +1,6 @@
 # CS3754-Bugs-and-Solutions
 
-### Bugs and Corresponding solutions
+### Bugs and Corresponding Solutions
 1. Universal Solution
 ```java
    Always remember to Clean the cache when meeting problems.
