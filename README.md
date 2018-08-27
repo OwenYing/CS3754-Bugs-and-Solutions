@@ -11,9 +11,15 @@
    Click the Run button again.
 ```
 
-2. Windows install mysql permission denied --> Failed :
+3. Windows install mysql permission denied --> Failed :
 ```
    Run program as administrator.
+```
+
+4. Windows install mysql case sensitive --> Failed :
+```
+   1. Restart the service of MySQL
+   2. Command line:  init-file = init.ini
 ```
    
    
