@@ -10,6 +10,11 @@
 ```
    Click the Run button again.
 ```
+
+2. Windows install mysql permission denied --> Failed :
+```
+   Run program as administrator.
+```
    
    
    
@@ -17,6 +22,13 @@
 #### Week 1 : Aug 13 -- Aug 20
 1. A week before Class Starts.
 2. Dr. Balci publishes course website: [CS 3754, Instructor : Dr. Balci](https://manta.cs.vt.edu/cs3754/)
+
+#### Week 2 : Aug 21 -- Aug 27
+1. Introduction
+2. Install Netbeans + Glassfish
+
+#### Week 3 : Aug 28 -- Aug 
+1. Autoloan
 
 ---
 ###### Always pull the newest version before start coding. [Git cheatsheet](https://owenying.github.io/html/blog/ToBeAEngineerFromScratch/Diary.html)
