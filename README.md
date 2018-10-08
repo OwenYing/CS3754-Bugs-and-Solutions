@@ -22,6 +22,10 @@
    2. Command line:  init-file = init.ini
 ```
    
+5. Windows table not found problem :
+```
+   Case sensitive problem.
+```
    
    
 ### Calendar
