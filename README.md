@@ -26,6 +26,12 @@
 ```
    Case sensitive problem.
 ```
+
+6. Error Message : Severe:   Exception while preparing the app : Could not resolve a persistence unit corresponding to the persistence-context-ref-name [edu.vt.FacadeBeans.UserFacade/em] in the scope of the module called [BevQ-Ying]. Please verify your application.
+```
+1. Check you persistence.xml : to see what follows the name, here mine is "BevQPU"
+2. Check all your Facades under package "edu.vt.FacadeBeans" : make sure @PersistenceContext(unitName = "BevQPU") has the same name as above
+```
    
    
 ### Calendar
